@@ -2,12 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
+title:               Gaurav Kandlikar
 tagline:             The Jekyll Butler
 url:                 http://getpoole.com
-paginate:            1
+paginate:            2
 baseurl:             ""
-
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -17,9 +16,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Gaurav Kandlikar
+  url:               https://twitter.com/gauravsk_
+  email:             gaurav.kandlikar@gmail.com
 
 # Custom vars
 version:             2.0.0
@@ -27,6 +26,12 @@ github:
   repo:              https://github.com/poole/poole
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-scholar
+paginate_path: "/blog/page:num/"
+pages_list:
+  Blog: '/blog'
+  Archive: '/archive'
+  Projects: '/projects'
