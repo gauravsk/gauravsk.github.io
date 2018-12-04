@@ -7,8 +7,7 @@ Hi. Thanks for visiting my website.
 
 I am a PhD student in [Dr. Nathan Kraft](https://sites.lifesci.ucla.edu/eeb-kraft/)'s plant community ecology research group at the [University of California, Los Angeles](https://www.ucla.edu). I like to spend my time thinking about the origins, maintenance, structure, and consequences of diversity.
 
-![Dryas (mountain avens) near Zermatt, Switzerland](public/matterhorn-flowers.JPG)
-*Dryas (mountain avens) near Zermatt, Switzerland*
+![](public/white-mtns.jpg)
 
 
 For my dissertation research, I work with the annual plant community in [Sedgwick Reserve](http://sedgwick.nrs.ucsb.edu/) to ask how plant functional traits -- traits that summarize plant ecological strategies -- help explain how species interact across environmental gradients. I am also keenly interested in learning about the role of dynamic feedbacks between plants and soil microbial communities in maintaining plant diversity, and am pursuing theoretical and experimental research on this question. For more information on my dissertation research and the side-projects that keep me occupied, please visit the [projects]() page and [email me](mailto::gaurav.kandlikar@gmail.com) with any questions.

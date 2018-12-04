@@ -31,6 +31,7 @@ plugins:
   - jekyll-gist
   - jekyll-scholar
 paginate_path: "/blog/page:num/"
+excerpt_separator: <!--more-->
 pages_list:
   Blog: '/blog'
   Archive: '/archive'
