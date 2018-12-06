@@ -14,4 +14,4 @@ title: Around the web (week of 26 November)
 
 #### Listening
 
-other stuff blah blah
+[Martin Rees' Reith Lectures](https://www.bbc.co.uk/programmes/b00sj9lh)
