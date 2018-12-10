@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "test"
+title: " "
 ---
 
 Hi. Thanks for visiting my website.
