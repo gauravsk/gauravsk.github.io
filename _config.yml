@@ -28,7 +28,6 @@ github:
 # Gems
 plugins:
   - jekyll-paginate
-  - jekyll-gist
 paginate_path: "/blog/page:num/"
 excerpt_separator: <!--more-->
 pages_list:
