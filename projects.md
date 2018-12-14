@@ -22,5 +22,5 @@ Microorganisms are ubiquitous and can have profound effects on plant communities
 -----------
 
 #### Other research and teaching projects
-*Using environmental DNA for biodiversity research*
+<u>Using environmental DNA for biodiversity research</u>  
 During my PhD at UCLA, I've also had the pleasure of collaborating on various research and teaching projects. I worked with [Dr. Emily Curd](https://www.ioes.ucla.edu/person/emily-curd/), [Zack Gold](http://www.zackgold.org/), and other members of the [California environmental DNA program](http://www.ucedna.com/) to develop an [bioinformatics pipeline](https://www.biorxiv.org/content/early/2018/12/07/488627) to help automate the process of assigning taxonomy to sequences in eDNA projects. I also led the development of a [`R` package/`shiny` app](https://f1000research.com/articles/7-1734/v1) to help visualize results from environmental DNA sequencing studies which has been used by various undergraduate microbiology and eDNA classes at UCLA.
