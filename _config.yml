@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Gaurav Kandlikar
-tagline:             
+tagline:
 url:                 http://gauravsk.github.io
 paginate:            2
 baseurl:             ""
@@ -34,3 +34,4 @@ pages_list:
   Blog: '/blog'
   Archive: '/archive'
   Projects: '/projects'
+  Recipes: '/recipes'
