@@ -31,7 +31,7 @@ plugins:
 paginate_path: "/blog/page:num/"
 excerpt_separator: <!--more-->
 pages_list:
-  Blog: '/blog'
-  Archive: '/archive'
   Projects: '/projects'
+  Blog: '/blog'
   Recipes: '/recipes'
+  Archive: '/archive'

@@ -14,4 +14,4 @@ hidden: true
 3. Add salt to taste and a small pinch of sugar, put on a lid for 2 minutes
 4. Again, sautee for 2 minutes.
 5. Salt again if needed.
-6. Add peanut chutney if available (or even just ground, chopped peanuts. )
+6. Add peanut chutney if available (or even just ground, roasted peanuts. )
