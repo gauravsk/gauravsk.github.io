@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Around the web (week of 26 November)
+title: SatRday recap
 ---
 
 Last weekend, I attended the excellent [SatRday conference](https://losangeles2019.satrdays.org/) here at the UCLA campus. I heard some excellent talks, and also presented a lightening talk. 
