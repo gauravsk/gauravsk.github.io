@@ -9,6 +9,8 @@ We began the trip by visiting grasslands towards the western portion of the rese
 
 ![](/public/tejon/DSC_0781.JPG)
 
+<!--more-->
+
 There's also a still-functioning cement mining operation in this portion of the ranch:
 
 ![](/public/tejon/DSC_0779.JPG)
