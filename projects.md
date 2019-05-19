@@ -22,6 +22,13 @@ Spring at Sedgwick Reserve
 
 Microorganisms are ubiquitous and can have profound effects on plant communities. Indeed, mutualistic interactions between plants and soil fungi are thought to have been critical in allowing plants to colonize land. A [pioneering theoretical framework](https://en.wikipedia.org/wiki/Plant%E2%80%93soil_feedback) developed two decades ago has motivated a great deal of empirical research that has shown that dynamic feedbacks between plants and soil microbes [have the potential to promote species  diversity](http://science.sciencemag.org/content/355/6321/134) in plant community. As part of my dissertation, I am extending established theory to explore how soil microbes may promote (or hinder) plant diversity via mechanisms that have not been clear in the literature so far.
 
+![](../public/greenhouse.jpg)
+ <div align="center">
+<small><i>
+Seedlings of annual plants for a plant-microbe interaction experiment
+</i></small>
+</div>
+
 -----------
 
 #### Other research and teaching projects
