@@ -1,6 +1,6 @@
 ---
 title: Basic phodni
-categories: [recipes, basics]
+categories: [recipes-basics]
 layout: post
 hidden: true
 ---

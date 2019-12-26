@@ -1,6 +1,6 @@
 ---
 title: Besan (Chickpea/Garbanzo flour) laddu
-categories: [recipes]
+categories: [recipes-dessert]
 layout: post
 hidden: true
 ---

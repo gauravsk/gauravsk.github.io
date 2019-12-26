@@ -1,6 +1,6 @@
 ---
 title: Oat or rava upma
-categories: [recipes]
+categories: [recipes-otherMeals]
 layout: post
 hidden: true
 ---

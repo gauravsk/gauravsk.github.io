@@ -1,6 +1,6 @@
 ---
 title: Brocolli cumin pasta
-categories: [recipes]
+categories: [recipes-otherMeals]
 layout: post
 hidden: true
 ---

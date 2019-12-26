@@ -1,6 +1,6 @@
 ---
 title: Peanut chutney
-categories: [recipes]
+categories: [recipes-basics]
 layout: post
 hidden: true
 ---

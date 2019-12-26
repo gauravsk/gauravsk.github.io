@@ -1,6 +1,6 @@
 ---
 title: Chayote squash bhaji
-categories: [recipes]
+categories: [recipes-bhaji]
 layout: post
 hidden: true
 ---

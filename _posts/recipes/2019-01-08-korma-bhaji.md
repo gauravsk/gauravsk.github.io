@@ -1,6 +1,6 @@
 ---
 title: Kurma (mixed vegetable) bhaji
-categories: [recipes]
+categories: [recipes-bhaji]
 layout: post
 hidden: true
 ---
